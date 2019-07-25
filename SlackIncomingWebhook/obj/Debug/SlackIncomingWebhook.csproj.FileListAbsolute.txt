@@ -1,0 +1,6 @@
+C:\Users\USSR\source\repos\SlackIncomingWebhook\SlackIncomingWebhook\bin\Debug\SlackIncomingWebhook.dll
+C:\Users\USSR\source\repos\SlackIncomingWebhook\SlackIncomingWebhook\bin\Debug\SlackIncomingWebhook.pdb
+C:\Users\USSR\source\repos\SlackIncomingWebhook\SlackIncomingWebhook\obj\Debug\SlackIncomingWebhook.csprojAssemblyReference.cache
+C:\Users\USSR\source\repos\SlackIncomingWebhook\SlackIncomingWebhook\obj\Debug\SlackIncomingWebhook.csproj.CoreCompileInputs.cache
+C:\Users\USSR\source\repos\SlackIncomingWebhook\SlackIncomingWebhook\obj\Debug\SlackIncomingWebhook.dll
+C:\Users\USSR\source\repos\SlackIncomingWebhook\SlackIncomingWebhook\obj\Debug\SlackIncomingWebhook.pdb
